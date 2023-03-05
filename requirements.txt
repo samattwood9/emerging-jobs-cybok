@@ -1,0 +1,10 @@
+ipykernel
+pandas
+matplotlib
+seaborn
+pgeocode
+plotly
+contractions
+more_itertools
+gensim
+nltk
