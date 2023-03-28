@@ -1,10 +1,10 @@
-ipykernel
-pandas
-matplotlib
-seaborn
-pgeocode
-plotly
-contractions
-more_itertools
-gensim
-nltk
+ipykernel == 6.21.2
+pandas == 1.5.3
+matplotlib == 3.7.0
+seaborn == 0.12.2
+pgeocode == 0.4.0
+plotly == 5.13.1
+contractions == 0.1.73
+more-itertools == 9.0.0
+gensim == 4.3.0
+nltk == 3.8.1
