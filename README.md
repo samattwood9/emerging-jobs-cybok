@@ -1,6 +1,7 @@
 # README
 
-*This repository contains the analyses reported in: **Exploring the UK Cyber Skills Gap with a TF-IDF Representation of the Cyber Security Body of Knowledge**.* Submitted to EASE 2023, Emerging Results track.
+*This repository contains the analyses reported in: **Exploring the UK Cyber Skills Gap through a mapping of active
+job listings to the Cyber Security Body of Knowledge (CyBOK)**.* Submitted to EASE 2023, Emerging Results track.
 
 ## Datasets
 
