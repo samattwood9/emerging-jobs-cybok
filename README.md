@@ -1,7 +1,7 @@
 # README
 
 *This repository contains the analyses reported in: **Exploring the UK Cyber Skills Gap through a mapping of active
-job listings to the Cyber Security Body of Knowledge (CyBOK)**.* Submitted to EASE 2023, Emerging Results track.
+job listings to the Cyber Security Body of Knowledge (CyBOK)**.* Accepted to EASE 2023, Emerging Results track.
 
 ## Datasets
 
