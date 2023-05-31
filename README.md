@@ -1,7 +1,7 @@
 # README
 
 *This repository contains the analyses reported in: **Exploring the UK Cyber Skills Gap through a mapping of active
-job listings to the Cyber Security Body of Knowledge (CyBOK)**.* Available: https://dl.acm.org/doi/10.1145/3593434.3593459.
+job listings to the Cyber Security Body of Knowledge (CyBOK)**.*
 
 ## Datasets
 
